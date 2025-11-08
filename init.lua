@@ -4,8 +4,8 @@ local term = require("term")
 local fs = require("filesystem")
 local shell = require("shell")
 
-local myUser = "<GITHUB_USER>"
-local myRepo = "<REPO>"
+local myUser = "bloodbinder256"
+local myRepo = "OS"
 local branch = "main" -- change if different branch
 
 local function rawURL(path)
