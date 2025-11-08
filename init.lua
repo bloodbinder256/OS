@@ -1,5 +1,5 @@
 -- init.lua -- bootloader / downloader
-local component = require("component")
+local component = component
 local term = require("term")
 local fs = require("filesystem")
 local shell = require("shell")
